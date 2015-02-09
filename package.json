@@ -1,6 +1,6 @@
 {
   "name": "enumy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny npm module that enables creation of enums.",
   "main": "src/enumy.js",
   "scripts": {
