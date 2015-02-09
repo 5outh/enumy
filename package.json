@@ -2,7 +2,7 @@
   "name": "enumy",
   "version": "1.0.0",
   "description": "A tiny npm module that enables creation of enums.",
-  "main": "index.js",
+  "main": "src/enumy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
